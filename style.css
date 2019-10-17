@@ -1,0 +1,62 @@
+.name img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .name {
+    margin-left: 100px;
+    margin-top: 25px;
+    width: 80%;
+  }
+  
+  .info img {
+    width: 65px;
+    height: 65px;
+  }
+  
+  .info {
+    margin-left: 50%;
+    margin-top: 25px;
+    width: 10%;
+  }
+  
+  .contact {
+    display: flex;
+    width: 95%;
+    height: 20%;
+  }
+  
+  .info-text {
+    margin-top: 45px;
+    width: 15%;
+  }
+  
+  body {
+    height: 100%;
+    background-image: url("images/background.jpg");
+    background-repeat: repeat;
+  }
+  
+  .car-image img {
+    height: 800px;
+    width: 100%;
+  }
+  
+  .card-deck {
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  .section-heading {
+    text-align: center;
+  }
+
+  .card-mb-3 {
+    width: 80%;
+    margin-left: 40%;
+  }
+
+  .final-heading {
+    
+  }
